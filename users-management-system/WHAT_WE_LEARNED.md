@@ -34,5 +34,15 @@ https://medium.com/@burakkocakeu/spring-data-jpa-vs-hibernate-1dde8f2a1113
 https://vladmihalcea.com/jpa-persistence-xml/
 17. Hibernate - Mapping Files hbm.xml </br>
 https://www.tutorialspoint.com/hibernate/hibernate_mapping_files.htm
-18. Understanding @Autowired in Spring Framework: Benefits and Types </br>
+18. Stateless and Managed Java Objects </br>
+https://www.quora.com/What-is-meant-by-%E2%80%9Cmanaged-object%E2%80%9D-in-Java </br>
+https://www.baeldung.com/java-stateless-object </br>
+https://stackoverflow.com/questions/9735601/what-is-stateless-object-in-java </br>
+https://www.tutorialspoint.com/ejb/ejb_stateless_beans.htm#:~:text=A%20stateless%20session%20bean%20is,may%20preserve%20its%20instance%20state.
+19. CDI Contexts and Dependency Injection </br>
+https://docs.oracle.com/javaee/7/tutorial/injection002.htm </br>
+https://www.baeldung.com/java-ee-cdi
+20. @Autowired in Spring Framework </br>
 https://vicksheet.medium.com/understanding-autowired-in-spring-framework-benefits-and-types-5ce8815d99d7
+
+
