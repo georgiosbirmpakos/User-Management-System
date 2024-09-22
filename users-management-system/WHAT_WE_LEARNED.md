@@ -44,5 +44,11 @@ https://docs.oracle.com/javaee/7/tutorial/injection002.htm </br>
 https://www.baeldung.com/java-ee-cdi
 20. @Autowired in Spring Framework </br>
 https://vicksheet.medium.com/understanding-autowired-in-spring-framework-benefits-and-types-5ce8815d99d7
-
-
+21. Hash-based Message Authentication Code (HMAC) </br>
+https://www.baeldung.com/java-hmac
+22. @Component @Repository @Service Annotations </br>
+https://www.baeldung.com/spring-component-annotation </br>
+https://www.baeldung.com/spring-component-repository-service
+23. Spring Inversion of Control (IoC), Application Context, Bean and Dependency Injection (DI) </br>
+https://www.linkedin.com/pulse/inversion-control-ioc-design-principle-jahid-momin/ </br>
+https://www.digitalocean.com/community/tutorials/spring-ioc-bean-example-tutorial
