@@ -52,3 +52,5 @@ https://www.baeldung.com/spring-component-repository-service
 23. Spring Inversion of Control (IoC), Application Context, Bean and Dependency Injection (DI) </br>
 https://www.linkedin.com/pulse/inversion-control-ioc-design-principle-jahid-momin/ </br>
 https://www.digitalocean.com/community/tutorials/spring-ioc-bean-example-tutorial
+24. Optional in Java 8 </br>
+https://medium.com/@uvrajanshuman/optional-in-java-8-ffcf45e01602
